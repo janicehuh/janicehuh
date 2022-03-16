@@ -1,4 +1,9 @@
 ### Hi there 👋
+Hello! Nice to meet youuu :) my name is Janice.
+I am a student majoring in electronic engineering.
+I like to learn new computer languages.
+I am looking forward to start my career with computer engineering!
+
 
 <!--
 **janicehuh/janicehuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
